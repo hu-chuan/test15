@@ -10,7 +10,10 @@ namespace test1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello,World!");
 
+            // 第一次更新
+            Console.WriteLine("第一次更新");
         }
     }
 }
